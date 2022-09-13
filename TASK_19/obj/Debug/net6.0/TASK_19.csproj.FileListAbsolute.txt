@@ -1,0 +1,15 @@
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\bin\Debug\net6.0\TASK_19.exe
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\bin\Debug\net6.0\TASK_19.deps.json
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\bin\Debug\net6.0\TASK_19.runtimeconfig.json
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\bin\Debug\net6.0\TASK_19.dll
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\bin\Debug\net6.0\TASK_19.pdb
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\obj\Debug\net6.0\TASK_19.csproj.AssemblyReference.cache
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\obj\Debug\net6.0\TASK_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\obj\Debug\net6.0\TASK_19.AssemblyInfoInputs.cache
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\obj\Debug\net6.0\TASK_19.AssemblyInfo.cs
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\obj\Debug\net6.0\TASK_19.csproj.CoreCompileInputs.cache
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\obj\Debug\net6.0\TASK_19.dll
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\obj\Debug\net6.0\refint\TASK_19.dll
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\obj\Debug\net6.0\TASK_19.pdb
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\obj\Debug\net6.0\TASK_19.genruntimeconfig.cache
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_13_09_22\TASK_19\obj\Debug\net6.0\ref\TASK_19.dll
